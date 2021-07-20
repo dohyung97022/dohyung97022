@@ -5,7 +5,7 @@
   * [javaGuide](https://github.com/dohyung97022/javaGuide)
   * [awsGuide](https://github.com/dohyung97022/awsGuide)
   * [springGuide](https://github.com/dohyung97022/springGuide)
-  * [studyBaekjoon](https://github.com/dohyung97022/studyBaekjoon/commits/master)
+  * [algorithmGuide](https://github.com/dohyung97022/algorithmGuide)
 
 교육
   * [hanghae99Guide](https://github.com/dohyung97022/hangHae99Guide)
