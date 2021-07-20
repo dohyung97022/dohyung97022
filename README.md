@@ -1,20 +1,15 @@
-- 👋 Hi, I’m @dohyung97022
-- 👀 I’m interested in aws, spring
-- 🌱 I’m currently learning aws solutions architect
-- 💞️ I’m looking to collaborate on 항해99
-- 📫 How to reach me 
+안녕하세요. ^^
+백엔드 개발자를 목표로 하고 있는 김도형입니다.
 
-<br>
-<details>
-<summary>드랍다운</summary>
-<br>
+노력
+  * [javaGuide](https://github.com/dohyung97022/javaGuide)
+  * [awsGuide](https://github.com/dohyung97022/awsGuide)
+  * [springGuide](https://github.com/dohyung97022/springGuide)
+  * [studyBaekjoon](https://github.com/dohyung97022/studyBaekjoon/commits/master)
 
-드랍다운 내용
-</details>
-<br>
+교육
+  * [hanghae99Guide](https://github.com/dohyung97022/hangHae99Guide)
 
-
-<!---
-dohyung97022/dohyung97022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+프로젝트
+  * [wanderer](https://github.com/hanghaeWeek1Team12/wanderer)
+  * [devMate](https://github.com/hanghaeWeek5Team21)
