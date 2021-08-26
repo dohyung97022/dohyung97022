@@ -1,4 +1,4 @@
-<img align='right' src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dohyung97022">    
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dohyung97022">    
 
 안녕하세요. ^^    
 백엔드 개발자를 목표로 하고 있는 김도형입니다.   
