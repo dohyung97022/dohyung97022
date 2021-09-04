@@ -15,3 +15,4 @@
 프로젝트
   * [wanderer](https://github.com/hanghaeWeek1Team12/wanderer)
   * [devMate](https://github.com/hanghaeWeek5Team21)
+  * [delight](https://github.com/Team-Delight/Delight-Server)
