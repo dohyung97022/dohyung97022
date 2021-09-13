@@ -9,6 +9,7 @@
   * [rdbGuide](https://github.com/dohyung97022/RDBGuide)
   * [awsGuide](https://github.com/dohyung97022/awsGuide)
   * [springGuide](https://github.com/dohyung97022/springGuide)
+  * [simpleJenkinsGuide](https://github.com/dohyung97022/simpleJenkinsGuide)
 
 교육
   * [hanghae99Guide](https://github.com/dohyung97022/hangHae99Guide)
