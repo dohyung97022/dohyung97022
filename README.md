@@ -5,9 +5,10 @@
 
 노력
   * [javaGuide](https://github.com/dohyung97022/javaGuide)
+  * [algorithmGuide](https://github.com/dohyung97022/algorithmGuide)
+  * [rdbGuide](https://github.com/dohyung97022/RDBGuide)
   * [awsGuide](https://github.com/dohyung97022/awsGuide)
   * [springGuide](https://github.com/dohyung97022/springGuide)
-  * [algorithmGuide](https://github.com/dohyung97022/algorithmGuide)
 
 교육
   * [hanghae99Guide](https://github.com/dohyung97022/hangHae99Guide)
